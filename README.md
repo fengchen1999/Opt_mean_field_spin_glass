@@ -12,7 +12,7 @@ Mean-field spin glass optimization is a high-dimensional, nonlinear, and nonconv
 - Hessian ascent for spherical spin glass models
 - Approximate Message Passing (AMP)
 
-The goal of this code is to reproduce numerical experiments, compare different relaxation and optimization methods, and provide computational support for the final report of **CS581B7**.
+The goal of this code is to reproduce numerical experiments, compare different relaxation and optimization methods, and provide computational support for the final report of **CS581B7** at **Colorado State University (CSU)** in **Spring 2026**.
 
 ## Files
 
